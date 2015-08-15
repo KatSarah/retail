@@ -1,0 +1,12 @@
+[info] Including: hawtdispatch-transport-1.11.jar
+[info] Including: commons-net-3.1.jar
+[info] Including: jasypt-1.9.0.jar
+[info] Including: hawtdispatch-1.11.jar
+[info] Including: mqtt-client-1.3.jar
+[info] Including: slf4j-api-1.6.6.jar
+[info] Including: jms-api-1.1-rev-1.jar
+[info] Including: scala-library.jar
+[info] Including: activemq-core-5.7.0.jar
+[info] Including: kahadb-5.7.0.jar
+[info] Including: geronimo-j2ee-management_1.1_spec-1.0.1.jar
+[info] Including: hawtbuf-1.9.jar

@@ -1,0 +1,10 @@
+retail/controller/JinjaHelperTest.class
+retail/model/TimeSliceDAOTest.class
+retail/model/FacetDAOTest.class
+retail/model/AdHocDAOTest.class
+retail/model/ProductDAOTest.class
+retail/helpers/jsonoutput/GoogleJsonArrayViewTest.class
+retail/versioncheck/JavaVersionTest.class
+retail/model/ReceiptDAOTest.class
+retail/model/CassandraDataTest.class
+retail/model/JinjaTest.class

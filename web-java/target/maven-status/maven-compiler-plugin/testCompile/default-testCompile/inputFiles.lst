@@ -1,0 +1,10 @@
+/root/retail/web-java/src/test/java/retail/model/JinjaTest.java
+/root/retail/web-java/src/test/java/retail/model/AdHocDAOTest.java
+/root/retail/web-java/src/test/java/retail/model/CassandraDataTest.java
+/root/retail/web-java/src/test/java/retail/model/TimeSliceDAOTest.java
+/root/retail/web-java/src/test/java/retail/model/ReceiptDAOTest.java
+/root/retail/web-java/src/test/java/retail/controller/JinjaHelperTest.java
+/root/retail/web-java/src/test/java/retail/model/ProductDAOTest.java
+/root/retail/web-java/src/test/java/retail/helpers/jsonoutput/GoogleJsonArrayViewTest.java
+/root/retail/web-java/src/test/java/retail/model/FacetDAOTest.java
+/root/retail/web-java/src/test/java/retail/versioncheck/JavaVersionTest.java
